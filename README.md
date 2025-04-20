@@ -57,6 +57,8 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 ### **Recover Deleted Files**  
 - Go to **File Views** (left panel).
 - ![a6](https://github.com/user-attachments/assets/f7063263-697f-485f-ad92-ccb0e8a17552)
+- ![image](https://github.com/user-attachments/assets/d41a0934-c3ff-4c7a-8a72-901f68c45ea6)
+
 
 
 - Click **Deleted Files** → Find your deleted images.  
